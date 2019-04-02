@@ -24,3 +24,10 @@ body {
 .invalid {
   color: red;
 }
+/* static/style.css */
+/* [...] */
+.letter {
+  /* [...] */
+  background-color: #FFEB3B;
+  color: #666;
+}
